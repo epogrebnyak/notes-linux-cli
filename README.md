@@ -80,7 +80,6 @@ cat
 [GNU Coreutils](https://ru.wikipedia.org/wiki/GNU_Coreutils)
 ============================================================
 
-| ----------------------------- | -------------------- | ------------------------------------------ |
 | Area                          | Familiar             | Not familiar                               |
 | ----------------------------- | -------------------- | ------------------------------------------ |
 | Output of entire files        | cat                  | tac nl od base32 base64                    |
@@ -112,8 +111,8 @@ cat
 [Unix command-line interface programs and shell builtins](https://en.wikipedia.org/wiki/Util-linux)
 ===================================================================================================
 
-|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Area              | Commands                                                                                                                                  |
+
+| Area              | Commands       |                                                                                                                           
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | File system       | **cat chmod** chown chgrp cksum cmp **cp** dd **du** df file fuser ln **ls mkdir mv** pax **pwd rm rmdir** split tee **touch** type umask |
 | Processes         | at bg crontab fg kill nice ps time                                                                                                        |
