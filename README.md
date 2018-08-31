@@ -1,5 +1,6 @@
 # linux-cli-notes
-Is Linux a new MS-DOS? A journey from Windows world to Linux command line.
+
+A journey from Windows world to Linux command line.
 
 
 Concepts
