@@ -72,11 +72,6 @@ groups
 cat
 ```
 
-|----|----|
-|    |    |
-|----|----|
-
-
 [GNU Coreutils](https://ru.wikipedia.org/wiki/GNU_Coreutils)
 ============================================================
 
@@ -106,11 +101,12 @@ cat
 | Process control               |                      | kill                                       |
 | Delaying                      | sleep                |                                            |
 | Numeric operations            |                      | factor numfmt seq                          |
-| ----------------------------- | -------------------- | ------------------------------------------ |
+
+
+
 
 [Unix command-line interface programs and shell builtins](https://en.wikipedia.org/wiki/Util-linux)
 ===================================================================================================
-
 
 | Area              | Commands       |                                                                                                                           
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -123,4 +119,3 @@ cat
 | Documentation     | **man**                                                                                                                                   |
 | Software development   | ar ctags lex **make** nm strip yacc                                                                                                  |
 | Miscellaneous     | bc cal expr lp od sleep true and false                                                                                                    |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------|
