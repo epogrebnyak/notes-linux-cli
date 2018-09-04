@@ -32,3 +32,6 @@ Flow
 
 - [ ] add new user and disable password login for root
 
+Resources:
+
+- [use **ssh**](https://semaphoreci.com/community/tutorials/getting-started-with-ssh)
