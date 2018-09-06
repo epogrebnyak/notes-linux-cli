@@ -26,8 +26,8 @@ Links
 ## Cheatsheets
 
 - [Bash](https://gist.github.com/LeCoupa/122b12050f5fb267e75f)
-- [CLI basics]https://github.com/jlevy/the-art-of-command-line#basics
-- [https://gist.github.com/dideler/5796745#linux-command-line]
+- [CLI basics](https://github.com/jlevy/the-art-of-command-line#basics)
+- [dideler-linux-command-line](https://gist.github.com/dideler/5796745#linux-command-line)
 
 
 ## Overall approach (get python going):
@@ -46,13 +46,17 @@ Links
 - https://superuser.com/questions/803365/private-and-public-key-ssh-for-more-users-root-and-sudo-users-vp
 
 
-## Idea of public/private keys
-
-- some youtube videos
-
 ## Behind Firewalls
 
 - https://stackoverflow.com/questions/8804339/ssh-to-server-behind-firewall
+
+## Bash scripts 
+
+- <https://stackoverflow.com/questions/7362504/bash-script-always-prints-command-not-found>
+
+## TODO:
+- list all installations made with apt-get
+- grep, xargs
 
 
 
