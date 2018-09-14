@@ -123,3 +123,11 @@ cat
 | Documentation     | **man**                                                                                                                                   |
 | Software development   | ar ctags lex **make** nm strip yacc                                                                                                  |
 | Miscellaneous     | bc cal expr lp od sleep true and false                                                                                                    |
+
+
+More notes
+----------
+
+Linux on Windwos:
+
+- <https://msdn.microsoft.com/en-us/commandline/wsl/install_guide>
