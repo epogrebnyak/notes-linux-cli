@@ -38,9 +38,8 @@ Prompt
 Get better advice: cheat and cheat.sh
 -------------------------------------
 
-- `man` is lengthy and notorious to read
-- `cheat` is nifty
-- `cheat.sh`  is fun and fast
+- `man` is complete, but lengthy and notorious to read
+- `cheat` and `cheat.sh` are nifty
 
 After installing WSL and pip3 `site-packages` folder not on path 
 ----------------------------------------------------------------
@@ -51,7 +50,7 @@ After installing WSL and pip3 `site-packages` folder not on path
 - `sudo apt-get update` (because `sudo apt-get install pip3` will not work
    of fresh installation)
 - `sudo apt-get install pip3`
-- `sudo pip install cheat`
+- `sudo pip3 install cheat`
 - `cheat` not recognised as a command, while `python3` runs fine from
   /usr/bin/python3
 - realise `$HOME/.local/lib/python3.6/site-packages` must be on path 
@@ -61,7 +60,18 @@ After installing WSL and pip3 `site-packages` folder not on path
 #### Links:
 
 - https://unix.stackexchange.com/questions/471783/site-packages-directory-not-found-after-installing-pip3-with-apt-get-in-ubuntu-w
- 
+- https://askubuntu.com/questions/1079021/is-it-possible-to-avoid-setting-path-manually-for-python-package-executables/1079579#1079579
+
+
+
+Why does WSL inherit Windows PATH?
+----------------------------------
+
+- https://github.com/Microsoft/WSL/issues/1640
+
+
+
+
 
 
 
