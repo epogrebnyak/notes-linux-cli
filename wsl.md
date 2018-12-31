@@ -4,10 +4,11 @@ From DOS to Linux
 Windows Subsytem for Linux (WSL)
 --------------------------------
 
+- [install guide](https://msdn.microsoft.com/en-us/commandline/wsl/install_guide)
 - WSL is a great way to have working Linux shell on Windows, 
   [read more here](https://docs.microsoft.com/en-us/windows/wsl/about)
-- `wsl | ubuntu | bash` are equally good to call WSL
-- [wslconfig.exe](https://docs.microsoft.com/en-us/windows/wsl/wsl-config) 
+- `wsl | ubuntu | bash` - use either to call WSL
+- [wslconfig.exe](https://docs.microsoft.com/en-us/windows/wsl/wsl-config)
   helps configuring multiple linux distrubutions on Windows
   
 
@@ -63,15 +64,21 @@ After installing WSL and pip3 `site-packages` folder not on path
 - https://askubuntu.com/questions/1079021/is-it-possible-to-avoid-setting-path-manually-for-python-package-executables/1079579#1079579
 
 
-
 Why does WSL inherit Windows PATH?
 ----------------------------------
 
 - https://github.com/Microsoft/WSL/issues/1640
 
 
+WSL seems to run ssh 
+--------------------
 
-
+```
+epo@EP-THINK:/mnt/c/Users/EP/Documents/GitHub/ToDo$ pstree -p
+init(1)─┬─init(53)───bash(54)
+        ├─init(1688)───bash(1689)───pstree(1699)
+        └─sudo(23)───ssh(24)
+```
 
 
 
