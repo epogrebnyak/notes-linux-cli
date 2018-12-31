@@ -13,5 +13,5 @@ Tasks
 Reference
 ---------
 
-- <tutorials.md>
-- <commands.md>
+- [Links to tutorials](tutorials.md)
+- [Commands](commands.md)
