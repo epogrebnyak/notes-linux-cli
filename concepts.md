@@ -4,21 +4,24 @@ Concepts
 - paths, common directory names, Filesystem Hierarchy Standard (FHS)
 - ports
 - services and daemons
-- notepad, vi, nano
 - public and private keys
+
+Text editors
+============
+
+- notepad, vi, nano, etc
 
 Tasks
 ======
 
-- navigate filesystem: cd, ls, pwd, tree*
-- create/wipe files: touch, rm
-- move files around: cp, mv
-- create/wipe directories: mkdir, rmdir
-- processes: pstree -p, kill 
-- grep
-- cat
-- learn: man, cheat*
-- newuser, usermod, groups
+- navigate filesystem: `cd`, `ls`, `pwd`, `tree`
+- create/wipe files: `touch`, `rm`
+- move files around: `cp`, `mv`
+- create/wipe directories: `mkdir`, `rmdir`
+- processes: `pstree -p`, `kill` 
+- text: `grep`, `cat`
+- learn: `man`, `cheat`
+- users: `newuser`, `usermod`, `groups`
 
 Examples
 --------
