@@ -60,8 +60,8 @@ After installing WSL and pip3 `site-packages` folder not on path
 
 #### Links:
 
-- https://unix.stackexchange.com/questions/471783/site-packages-directory-not-found-after-installing-pip3-with-apt-get-in-ubuntu-w
-- https://askubuntu.com/questions/1079021/is-it-possible-to-avoid-setting-path-manually-for-python-package-executables/1079579#1079579
+- [1](https://unix.stackexchange.com/questions/471783/site-packages-directory-not-found-after-installing-pip3-with-apt-get-in-ubuntu-w)
+- [2](https://askubuntu.com/questions/1079021/is-it-possible-to-avoid-setting-path-manually-for-python-package-executables/1079579#1079579)
 
 
 Why does WSL inherit Windows PATH?
@@ -80,6 +80,7 @@ init(1)─┬─init(53)───bash(54)
         └─sudo(23)───ssh(24)
 ```
 
+Troubleshooting
+---------------
 
-
-
+- [corrupt installation](https://github.com/Microsoft/WSL/issues/3352#issuecomment-402673907)
